@@ -1,0 +1,1 @@
+This contains Day2 practiced code of HTML and CSS 
